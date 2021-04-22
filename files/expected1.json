@@ -1,0 +1,37 @@
+[
+  {
+      "barista_id": 1,
+      "start_time": 7,
+      "order_id": 1
+  },
+  {
+      "barista_id": 2,
+      "start_time": 7,
+      "order_id": 2
+  },
+  {
+      "barista_id": 1,
+      "start_time": 11,
+      "order_id": 3
+  },
+  {
+      "barista_id": 2,
+      "start_time": 14,
+      "order_id": 4
+  },
+  {
+      "barista_id": 1,
+      "start_time": 15,
+      "order_id": 5
+  },
+  {
+      "barista_id": 2,
+      "start_time": 21,
+      "order_id": 6
+  },
+  {
+      "barista_id": 1,
+      "start_time": 22,
+      "order_id": 7
+  }
+]

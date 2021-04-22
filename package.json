@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/FSolM/asymm_cafe/issues"
   },
-  "homepage": "https://github.com/FSolM/asymm_cafe#readme"
+  "homepage": "https://github.com/FSolM/asymm_cafe#readme",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "jester-tester": "^2.0.1"
+  }
 }
